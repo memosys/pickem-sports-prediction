@@ -1,0 +1,181 @@
+[{
+  "GameId": "789123456",
+  "Team1": {
+    "Name": "LAL",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "BKN",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Status": "Not Started",
+  "Date": "2023-07-07T20:00:00",
+  "League": "NBA"
+},
+{
+  "GameId": "456789123",
+  "Team1": {
+    "Name": "GSW",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "PHI",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Status": "Not Started",
+  "Date": "2023-07-08T19:30:00",
+  "League": "NBA"
+},
+{
+  "GameId": "321654987",
+  "Team1": {
+    "Name": "MIL",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "UTA",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Status": "Not Started",
+  "Date": "2023-07-09T21:00:00",
+  "League": "NBA"
+},
+{
+  "GameId": "987321654",
+  "Team1": {
+    "Name": "LAC",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "PHX",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Status": "Not Started",
+  "Date": "2023-07-10T20:30:00",
+  "League": "NBA"
+},
+{
+  "GameId": "654987321",
+  "Team1": {
+    "Name": "BOS",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "DEN",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Status": "Not Started",
+  "Date": "2023-07-11T19:00:00",
+  "League": "NBA"
+},
+{
+  "GameId": "123456789",
+  "Team1": {
+    "Name": "HOU",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "DAL",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Status": "Not Started",
+  "Date": "2023-07-12T20:00:00",
+  "League": "NBA"
+},
+{
+  "GameId": "123456789",
+  "Team1": {
+    "Name": "LAL",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "GSW",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Score": "112-108",
+  "Status": "Completed",
+  "Winner": "LAL",
+  "Date": "2023-06-30T20:00:00",
+  "League": "NBA"
+},
+{
+  "GameId": "987654321",
+  "Team1": {
+    "Name": "BKN",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "MIL",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Score": "120-115",
+  "Status": "Completed",
+  "Winner": "BKN",
+  "Date": "2023-06-29T19:30:00",
+  "League": "NBA"
+},
+{
+  "GameId": "987654321",
+  "Team1": {
+    "Name": "PHX",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "SAS",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Score": "105-98",
+  "Status": "Completed",
+  "Winner": "PHX",
+  "Date": "2023-06-28T21:00:00",
+  "League": "NBA"
+},
+{
+  "GameId": "654987321",
+  "Team1": {
+    "Name": "UTA",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "DAL",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Score": "117-113",
+  "Status": "Completed",
+  "Winner": "UTA",
+  "Date": "2023-06-27T20:30:00",
+  "League": "NBA"
+},
+{
+  "GameId": "321654987",
+  "Team1": {
+    "Name": "PHI",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "ATL",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Score": "125-120",
+  "Status": "Completed",
+  "Winner": "PHI",
+  "Date": "2023-06-26T19:00:00",
+  "League": "NBA"
+},
+{
+  "GameId": "456789123",
+  "Team1": {
+    "Name": "BOS",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/137.png"
+  },
+  "Team2": {
+    "Name": "LAC",
+    "LogoUrl": "https://media-3.api-sports.io/basketball/teams/134.png"
+  },
+  "Score": "102-98",
+  "Status": "Completed",
+  "Winner": "BOS",
+  "Date": "2023-06-25T20:00:00",
+  "League": "NBA"
+}
+]
